@@ -1,0 +1,47 @@
+[2024-05-16T15:54:00.700] [DEBUG] debug - username.join is not a function
+[2024-05-16T15:55:58.752] [DEBUG] debug - username.join is not a function
+[2024-05-21T10:15:31.511] [DEBUG] debug - connect ETIMEDOUT
+[2024-05-21T10:15:31.512] [DEBUG] debug - connect ETIMEDOUT
+[2024-05-21T10:20:09.969] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T10:20:15.626] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T10:20:19.780] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T10:32:28.312] [DEBUG] debug - connect ETIMEDOUT
+[2024-05-21T10:32:31.099] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T10:32:32.894] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T10:32:36.187] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T10:42:03.959] [DEBUG] debug - connect ECONNREFUSED 127.0.0.1:3303
+[2024-05-21T10:42:06.745] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T10:43:08.330] [DEBUG] debug - connect ECONNREFUSED 127.0.0.1:3303
+[2024-05-21T11:24:31.008] [DEBUG] debug - ER_ACCESS_DENIED_ERROR: Access denied for user 'admin'@'localhost' (using password: YES)
+[2024-05-21T11:24:49.978] [DEBUG] debug - ER_ACCESS_DENIED_ERROR: Access denied for user 'admin'@'localhost' (using password: YES)
+[2024-05-21T11:25:08.968] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T11:25:15.682] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T11:25:18.274] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T11:25:26.313] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T11:30:06.498] [DEBUG] debug - ER_ACCESS_DENIED_ERROR: Access denied for user 'admin'@'localhost' (using password: YES)
+[2024-05-21T11:30:53.158] [DEBUG] debug - ER_ACCESS_DENIED_ERROR: Access denied for user 'admin'@'localhost' (using password: YES)
+[2024-05-21T11:30:55.797] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T11:30:58.851] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T11:31:49.560] [DEBUG] debug - ER_ACCESS_DENIED_ERROR: Access denied for user 'admin'@'localhost' (using password: NO)
+[2024-05-21T11:31:53.579] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T11:31:57.109] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T11:33:14.845] [DEBUG] debug - ER_ACCESS_DENIED_ERROR: Access denied for user 'admin'@'localhost' (using password: NO)
+[2024-05-21T11:33:17.556] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T11:36:55.818] [DEBUG] debug - ER_ACCESS_DENIED_ERROR: Access denied for user 'admin'@'localhost' (using password: NO)
+[2024-05-21T11:36:59.311] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T11:45:17.458] [DEBUG] debug - ER_BAD_DB_ERROR: Unknown database 'dangdang'
+[2024-05-21T14:15:13.913] [DEBUG] debug - ER_BAD_DB_ERROR: Unknown database 'dangdang'
+[2024-05-21T14:15:26.364] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T14:15:29.452] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T14:16:28.543] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T14:17:01.253] [DEBUG] debug - ER_BAD_DB_ERROR: Unknown database 'dangdang'
+[2024-05-21T14:23:57.865] [DEBUG] debug - ER_BAD_DB_ERROR: Unknown database 'dangdang'
+[2024-05-21T14:24:00.201] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T14:24:02.116] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-21T14:24:03.869] [DEBUG] debug - Cannot enqueue Query after fatal error.
+[2024-05-23T16:43:30.425] [DEBUG] debug - notNull Violation: userinfo.username cannot be null,
+notNull Violation: userinfo.psw cannot be null
+[2024-05-23T16:43:54.917] [DEBUG] debug - notNull Violation: userinfo.username cannot be null,
+notNull Violation: userinfo.psw cannot be null
+[2024-05-23T16:43:58.197] [DEBUG] debug - notNull Violation: userinfo.username cannot be null,
+notNull Violation: userinfo.psw cannot be null
